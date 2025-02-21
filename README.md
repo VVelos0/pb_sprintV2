@@ -1,19 +1,23 @@
-📌 API Conteúdos - Documentação e Uso no Postman
+1. Introdução
 
-📖 Sobre a API
+Este repositório tem como objetivo fornecer materiais de estudo e exemplos práticos sobre APIs, Postman, Quality Assurance (QA) e Git.
 
-A API de Conteúdos fornece acesso a informações e dados relacionados a diversos tipos de conteúdo.
-Ela permite operações como consulta, criação, atualização e remoção de recursos.
+2. Postman
+
+Postman é uma ferramenta utilizada para testes de APIs
+
+3.
+QA é o processo de garantir a qualidade de um software
 
 
-Endpoints Principais
+Endpoints Principais HTTPS
 
-🔹 Autenticação
+ Autenticação
 
 POST /auth/login - Gera token de autenticação.
 POST /auth/register - Registra um novo usuário.
 
-🔹 Conteúdos
+ Conteúdos
 
 GET /conteudos - Lista todos os conteúdos.
 POST /conteudos - Cria um novo conteúdo
