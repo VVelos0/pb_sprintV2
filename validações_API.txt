@@ -1,0 +1,22 @@
+Resumo: Cobertura de Testes de APIs
+A cobertura de testes de APIs mede o quanto os testes validam os diferentes aspectos da API, garantindo qualidade e confiabilidade.
+
+1. Tipos de Cobertura em Testes de API
+ Cobertura de Endpoints: Testa todos os endpoints disponíveis na API.
+ Cobertura de Métodos HTTP: Verifica se todos os métodos são testados (GET, POST, PUT, DELETE, etc.).
+ Cobertura de Código: Mede a porcentagem do código da API que é executada pelos testes.
+ Cobertura de Casos de Uso: Garante que todas as funcionalidades esperadas são testadas.
+ Cobertura de Dados: Testa a API com diferentes tipos de entradas (válidas, inválidas e extremas).
+
+2. Como Melhorar a Cobertura?
+ Automatize os testes para cobrir diferentes cenários.
+ Utilize Testes de Contrato para validar a estrutura das respostas.
+ Inclua Testes de Segurança para verificar autenticação e proteção contra ataques.
+ Simule diferentes condições como falhas na rede e alta concorrência.
+ Monitore métricas para identificar partes não testadas do código.
+3. Ferramentas para Medir a Cobertura
+ Postman/Newman – Para automação e análise de testes manuais.
+ RestAssured – Para testes automatizados em Java.
+ JaCoCo – Para medir cobertura de código em Java.
+ Coverage.py – Para medir cobertura de código em Python.
+ JMeter – Para testes de carga e desempenho.
