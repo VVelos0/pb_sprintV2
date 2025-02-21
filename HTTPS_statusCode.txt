@@ -1,0 +1,17 @@
+1. Análise HTTP
+O HTTP (Hypertext Transfer Protocol) é o protocolo de comunicação usado na web e em APIs REST. Ele define como clientes (browsers, apps, etc.) interagem com servidores.
+
+ Principais Componentes:
+
+Métodos HTTP:
+GET → Recupera dados
+POST → Envia dados (criação)
+PUT → Atualiza recursos
+DELETE → Remove recursos
+
+Códigos de Status HTTP:
+200 OK → Sucesso
+201 Created → Recurso criado
+400 Bad Request → Erro do cliente
+401 Unauthorized → Falha na autenticação
+500 Internal Server Error → Erro no servidor
