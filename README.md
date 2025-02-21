@@ -6,7 +6,7 @@ Este repositório tem como objetivo fornecer materiais de estudo e exemplos prá
 
 Postman é uma ferramenta utilizada para testes de APIs
 
-3.
+3. Funcionamento de um QA
 QA é o processo de garantir a qualidade de um software
 
 
